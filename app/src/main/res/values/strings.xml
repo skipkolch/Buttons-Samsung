@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="name">Evgenii</string>
+    <string name="text">HELLO WORLD</string>
+    <string name="input">Вводите текст сюда</string>
+    <string name="enter">Ввести</string>
+    <string name="cancel">Отменить</string>
+    <string name="quit">Выход</string>
+    <string name="image">image</string>
+</resources>
